@@ -3,4 +3,6 @@ def my_function(fname):
 fname = input ("please fill out ")
 my_function(fname)
 
+print("hello")
+
 
